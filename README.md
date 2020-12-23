@@ -1,4 +1,4 @@
-### Hi there 👋
+![Kanazuchi Status](https://github-readme-stats.vercel.app/api?username=kanazux&show_icons=true)
 
 <!--
 **kanazux/kanazux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
